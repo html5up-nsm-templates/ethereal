@@ -1,0 +1,9 @@
+@input(content/banner.content)
+
+@input(content/spotlight.content)
+
+@input(content/gallery.content)
+
+@input(content/contact.content)
+
+@input(content/elements.content)
