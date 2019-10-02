@@ -26,16 +26,17 @@
 				<blockquote>Lorem ipsum dolor sit amet. Felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in vestibulum. Blandit adipiscing eu iaculis volutpat ac adipiscing volutpat ac adipiscing faucibus.</blockquote>
 
 				<h4>Preformatted</h4>
-				<pre>
-					i = 0;
+<pre>
+i = 0;
 
-					while (!deck.isInOrder()) {
-					print 'Iteration ' + (i++);
-					deck.shuffle();
-					}
+while (!deck.isInOrder()) 
+{
+	print 'Iteration ' + (i++);
+	deck.shuffle();
+}
 
-					print 'It took ' + i + ' iterations to sort the deck.';
-				</pre>
+print 'It took ' + i + ' iterations to sort the deck.';
+</pre>
 
 			</div>
 			<div class="span-1-25">
